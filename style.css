@@ -151,15 +151,14 @@ font-size: 30px;
     flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: #e2e7e6;
-
 }
 .box{
-    /* border:2px solid black; */
+    /* border: 2px solid black; */
     height:400px;
     width:23%;
     background-color: white;
-    padding:20px 0px 15px;
-    margin:15px;
+    padding: 20px 0px 15px;
+    margin-top: 15px;
 }
 .box-img{
     height: 300px;
@@ -169,12 +168,12 @@ font-size: 30px;
 }
 .box-content{
     margin-left: 1rem;
-    margin-right:1rem;
+    margin-right: 1rem;
 }
 .box-content p{
     color:#007185;
-
 }
+
 /**footer**/
 footer{
     margin-top: 15px;
